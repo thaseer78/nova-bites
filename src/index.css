@@ -427,7 +427,7 @@ h1 em, h2 em { color: var(--copper); font-weight: 500; }
 }
 
 .navigation > a:not(.nav-reserve):hover {
-  color: #b45309;
+  color: var(--copper-dark);
 }
 
 /* Google Maps sizing */
